@@ -14,3 +14,15 @@
 * Morgan: a logging package to make it easier to debug our network requests to this api
 
 * Mongoose: a package that lets us interact with MongoDB in an easier way (the M in __M__ ERN)
+
+6. Remove src/logo.svg, App.css, App.test.js and App.js
+
+7. create  CommentList.js CommentBox.js CommentForm.js Comment.js data.js CommentBox.css in src
+
+8. npm add react-markdown whatwg-fetch prop-types
+
+9. npm add --dev eslint babel-eslint(airbnb eslint rules)
+
+10. npm install — save-dev`
+
+11. run in client folder - touch .eslintrc.json
